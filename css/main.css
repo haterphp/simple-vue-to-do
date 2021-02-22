@@ -1,0 +1,22 @@
+.form-control-noborder{
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+.nav-note-container{
+    padding: .25rem .75rem;
+    padding-left: 0;
+}
+
+.form-control-large{
+    height: 50px;
+}
+
+.nav-note-a a{
+    color: #212529;
+}
+
+.nav-note-a:hover a{
+    color: var(--bs-blue);
+}
